@@ -1,0 +1,25 @@
+git config --global user.name "name"
+git config --global user.email "personal email"
+
+git init: thông báo sẽ git cho folder này, chỉ làm 1 lần cho mỗi dự án
+git remote add origin duong_dan_den_repo_git : kết nối folder hiện tại với repo trên git 
+VD: git remote add origin https://github.com/hophan826-star/BC96_git.git
+remote -v: để kiểm tra lại thooogn tin.
+
+
+-- đẩy code lên github
+git add .
+git commit -m "noidung commit"
+
+git push 
+ở lần đầu push 
+git push -u origin main/master
+
+lần bình thường (not first)
+git push
+
+
+file màu xanh: file mới tạo 
+
+
+untracked: chưa đc theo dõi trên github
