@@ -40,3 +40,4 @@ hello cypersoft
 
 tạo nhánh mới : git checkout -b đặt tên 
 check lại nhánh là git branch
+git merge lấy code từ nơi khác về 
